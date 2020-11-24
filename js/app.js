@@ -1,3 +1,4 @@
+// ejemplos de calculos basicos
 const sumar =(x,y) =>{
     return x+y;
 }
